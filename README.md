@@ -1,18 +1,18 @@
 <div align="center">
   
-# Hi there 👋
+## ✨ Hi there 👋
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRiYzFrd3h3aDFubGY1dWRzaGlrOWVsdDl0Z25yaXRoNWQ2MXh1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="1200" height="200"/>
 </div>
 <div align="center">
   
-# About Me
+## ✨ About Me
 Data engineer with expertise in scientific (R&D) and manufacturing fields. To date, I am the author and co-author of more than 50 publications in international high-ranking journals on material science, including articles on analytics and predictive data analytics. 8 patents. Managed and successfully implemented more than 10 R&D projects, have extensive experience in communicating with stakeholders, speaking at international conferences and organization of seminars. 
 
 <div align="center">
   
-# Skills & Technologies
+## ⚡ Skills & Technologies
 
 <div align="center">
   
