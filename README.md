@@ -20,11 +20,18 @@ A data engineer with expertise in scientific (R&D) and manufacturing fields. To 
 
 <div align="left">
 
-  <img src="https://cdn.jsdelivr.net/npm/airflow-log@1.0.20/build/index.min.js" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="postgresql logo"  />
+  <img width="12" />
 </div>
 
 <!--
