@@ -17,6 +17,16 @@ A data engineer with expertise in scientific (R&D) and manufacturing fields. To 
   - Apache Spark
   - DataLens
   - Classic ML
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/npm/airflow-log@1.0.20/build/index.min.js" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
+
 <!--
 **LNV-13/LNV-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
