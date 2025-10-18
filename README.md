@@ -1,24 +1,22 @@
-## Hi there 👋
+<div align="center">
+  
+# Hi there 👋
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRiYzFrd3h3aDFubGY1dWRzaGlrOWVsdDl0Z25yaXRoNWQ2MXh1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="600" height="300"/>
 </div>
-
+<div align="center">
+  
 # About Me
 Data engineer with expertise in scientific (R&D) and manufacturing fields. To date, I am the author and co-author of more than 50 publications in international high-ranking journals on material science, including articles on analytics and predictive data analytics. 8 patents. Managed and successfully implemented more than 10 R&D projects, have extensive experience in communicating with stakeholders, speaking at international conferences and organization of seminars. 
-
+<div align="center">
 ## Skills & Technologies
 
-  - Python
-  - SQL
-  - PostgreSQL
-  - ClickHouse
-  - Apache Airflow
-  - Apache Spark
-  - DataLens
-  - Classic ML
+<div align="center">
+  
+  Python - SQL - PostgreSQL - ClickHouse - Apache Airflow - S3 - Apache Spark - DataLens - Classic ML
 
-<div align="left">
+<div align="center">
 
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
