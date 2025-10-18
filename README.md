@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://yandex.ru/images/search?family=yes&from=tabbar&img_url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F3c%2Fcf%2F91%2F3ccf9132decfd569615b94a2008c19a2.jpg&lr=117013&p=8&pos=0&rpt=simage&text=data%20science%20%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F)" width="600" height="300"/>
 </div>
 
 # About Me
