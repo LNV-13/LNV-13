@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 # About Me
 A data engineer with expertise in scientific (R&D) and manufacturing fields. To date, I am the author and co-author of more than 50 publications in international high-ranking journals on material science, including articles on analytics and predictive data analytics. 8 patents. Managed and successfully implemented more than 10 R&D projects, have extensive experience in communicating with stakeholders, speaking at international conferences and organizing seminars. 
 
