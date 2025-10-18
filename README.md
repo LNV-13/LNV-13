@@ -1,8 +1,18 @@
 ## Hi there 👋
 
 # About Me
-A data engineer with expertise in scientific (R&D) and manufacturing fields. To date, I am the author and co-author of more than 50 publications in international high-ranking journals on material science, including articles on analytics, including predictive data analytics. 8 patents. Managed and successfully implemented more than 10 R&D projects, have extensive experience in communicating with stakeholders, speaking at international conferences and organizing seminars. 
+A data engineer with expertise in scientific (R&D) and manufacturing fields. To date, I am the author and co-author of more than 50 publications in international high-ranking journals on material science, including articles on analytics and predictive data analytics. 8 patents. Managed and successfully implemented more than 10 R&D projects, have extensive experience in communicating with stakeholders, speaking at international conferences and organizing seminars. 
 
+## Skills & Technologies
+
+  - Python
+  - SQL
+  - PostgreSQL
+  - ClickHouse
+  - Apache Airflow
+  - Apache Spark
+  - DataLens
+  - Classic ML
 <!--
 **LNV-13/LNV-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
